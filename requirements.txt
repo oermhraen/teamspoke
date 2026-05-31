@@ -1,2 +1,4 @@
-streamlit
-streamlit-webrtc
+streamlit==1.45.1
+streamlit-webrtc==0.63.4
+av==15.0.0
+numpy==2.3.1
